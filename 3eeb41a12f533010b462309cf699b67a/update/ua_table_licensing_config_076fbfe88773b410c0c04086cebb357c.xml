@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-10-19 12:42:52</sys_created_on>
-        <sys_id>7cfc65e52f173010b462309cf699b617</sys_id>
+        <sys_id>076fbfe88773b410c0c04086cebb357c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_292864_client_ho_dl_u_hotellookup</sys_name>
         <sys_package display_value="Client hotel booking application" source="x_292864_client_ho">3eeb41a12f533010b462309cf699b67a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Client hotel booking application">3eeb41a12f533010b462309cf699b67a</sys_scope>
-        <sys_update_name>ua_table_licensing_config_7cfc65e52f173010b462309cf699b617</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_076fbfe88773b410c0c04086cebb357c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2021-10-19 12:42:52</sys_updated_on>
     </ua_table_licensing_config>

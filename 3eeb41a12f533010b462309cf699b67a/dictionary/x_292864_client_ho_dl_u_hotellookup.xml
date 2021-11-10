@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="update_synch=true" extends="dl_matcher" label="dl_u_hotellookup" max_length="40" name="x_292864_client_ho_dl_u_hotellookup" sizeclass="3" type="collection">
+    <element attributes="update_synch=true" extends="dl_matcher" label="dl_u_hotellookup" max_length="40" name="x_292864_client_ho_dl_u_hotellookup" type="collection">
         <element attributes="encode_utf8=false" label="Employee department" max_length="32" name="employee_department" reference="cmn_department" type="reference"/>
         <element attributes="edge_encryption_enabled=true" choice="1" choice_field="title" choice_table="sys_user" label="Employee Title" max_length="40" name="employee_title" type="string">
             <choice/>

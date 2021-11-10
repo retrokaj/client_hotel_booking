@@ -65,7 +65,7 @@
         <update_guid_history>19fd4da587533010f9a278d6d5ac142c:-396551488</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Client Hotel Bookings">ddc283b12f17b010b462309cf699b6de</sys_audit_delete>
+        <sys_audit_delete display_value="">ddc283b12f17b010b462309cf699b6de</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-10-20 13:36:18</sys_created_on>

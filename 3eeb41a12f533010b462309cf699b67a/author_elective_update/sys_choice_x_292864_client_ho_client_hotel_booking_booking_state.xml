@@ -6,7 +6,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2021-10-19 11:25:18</sys_created_on>
-            <sys_id>283b99a92f933010b462309cf699b66e</sys_id>
+            <sys_id>4b6fbfe88773b410c0c04086cebb3555</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>booking_state</sys_name>
             <sys_package display_value="Client hotel booking application" source="x_292864_client_ho">3eeb41a12f533010b462309cf699b67a</sys_package>
@@ -34,7 +34,6 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2021-10-19 11:25:18</sys_updated_on>
-            <u_type/>
             <value>New Booking</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -55,7 +54,6 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2021-10-19 11:25:18</sys_updated_on>
-            <u_type/>
             <value>New state</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -76,7 +74,6 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2021-10-19 11:25:18</sys_updated_on>
-            <u_type/>
             <value>Booking pending</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -97,7 +94,6 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2021-10-19 11:25:18</sys_updated_on>
-            <u_type/>
             <value>On hold</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -118,7 +114,6 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2021-10-19 11:25:18</sys_updated_on>
-            <u_type/>
             <value>Already booked</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -139,7 +134,6 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2021-10-19 11:25:18</sys_updated_on>
-            <u_type/>
             <value>Not eligble</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -160,7 +154,6 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2021-10-19 11:25:18</sys_updated_on>
-            <u_type/>
             <value>Booking closed</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -181,7 +174,6 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2021-10-19 11:25:18</sys_updated_on>
-            <u_type/>
             <value>Booking cancelled</value>
         </sys_choice>
     </sys_choice>

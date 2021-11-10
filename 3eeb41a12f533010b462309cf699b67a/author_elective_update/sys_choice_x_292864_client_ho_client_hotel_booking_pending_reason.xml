@@ -6,7 +6,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2021-10-19 11:27:38</sys_created_on>
-            <sys_id>76bb15e92f933010b462309cf699b66e</sys_id>
+            <sys_id>036fbfe88773b410c0c04086cebb3564</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>pending_reason</sys_name>
             <sys_package display_value="Client hotel booking application" source="x_292864_client_ho">3eeb41a12f533010b462309cf699b67a</sys_package>
@@ -34,7 +34,6 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2021-10-19 11:27:38</sys_updated_on>
-            <u_type/>
             <value>Not eligble</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -55,7 +54,6 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2021-10-19 11:27:38</sys_updated_on>
-            <u_type/>
             <value>Hotel are not available</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -76,7 +74,6 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2021-10-19 11:27:38</sys_updated_on>
-            <u_type/>
             <value>HDocument pending</value>
         </sys_choice>
     </sys_choice>

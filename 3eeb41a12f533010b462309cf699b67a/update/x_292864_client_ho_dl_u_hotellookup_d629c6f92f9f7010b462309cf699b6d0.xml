@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="x_292864_client_ho_dl_u_hotellookup">
     <x_292864_client_ho_dl_u_hotellookup action="INSERT_OR_UPDATE">
         <active>true</active>
-        <employee_department display_value="Finance">a581ab703710200044e0bfc8bcbe5de8</employee_department>
+        <employee_department display_value="">a581ab703710200044e0bfc8bcbe5de8</employee_department>
         <employee_title>Chief Financial Officer</employee_title>
         <employee_title1/>
         <hotel_category>6 - Star</hotel_category>

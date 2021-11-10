@@ -3,6 +3,7 @@
         <active>true</active>
         <application display_value="Client Hotel Booking">95fd4da52f533010b462309cf699b619</application>
         <assessment/>
+        <content_page/>
         <device_type/>
         <filter table="x_292864_client_ho_client_hotel_booking">booking_state=Already booked^EQ<item display_value="Already booked" endquery="false" field="booking_state" goto="false" newquery="false" operator="=" or="false" value="Already booked"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
