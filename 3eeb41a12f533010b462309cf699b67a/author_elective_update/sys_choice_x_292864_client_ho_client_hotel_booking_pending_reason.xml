@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="pending_reason" table="x_292864_client_ho_client_hotel_booking" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>pending_reason</element>
+            <name>x_292864_client_ho_client_hotel_booking</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-19 11:27:38</sys_created_on>
+            <sys_id>76bb15e92f933010b462309cf699b66e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>pending_reason</sys_name>
+            <sys_package display_value="Client hotel booking application" source="x_292864_client_ho">3eeb41a12f533010b462309cf699b67a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Client hotel booking application">3eeb41a12f533010b462309cf699b67a</sys_scope>
+            <sys_update_name>sys_choice_x_292864_client_ho_client_hotel_booking_pending_reason</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-19 11:27:38</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>pending_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Not eligble</label>
+            <language>en</language>
+            <name>x_292864_client_ho_client_hotel_booking</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-19 11:27:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fabb15e92f933010b462309cf699b66d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-19 11:27:38</sys_updated_on>
+            <u_type/>
+            <value>Not eligble</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>pending_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hotel are not available</label>
+            <language>en</language>
+            <name>x_292864_client_ho_client_hotel_booking</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-19 11:27:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3ebb15e92f933010b462309cf699b66f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-19 11:27:38</sys_updated_on>
+            <u_type/>
+            <value>Hotel are not available</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>pending_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HDocument pending</label>
+            <language>en</language>
+            <name>x_292864_client_ho_client_hotel_booking</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-19 11:27:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>febb15e92f933010b462309cf699b670</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-19 11:27:38</sys_updated_on>
+            <u_type/>
+            <value>HDocument pending</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

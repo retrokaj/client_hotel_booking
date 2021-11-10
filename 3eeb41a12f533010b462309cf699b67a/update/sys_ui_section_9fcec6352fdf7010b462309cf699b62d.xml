@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="New Section" section_id="9fcec6352fdf7010b462309cf699b62d" sys_domain="global" table="x_292864_client_ho_client_hotel_booking" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>process_flow.xml</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-20 09:49:16</sys_created_on>
+            <sys_id>fbcec6352fdf7010b462309cf699b689</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Process Flow">4facc2712fdf7010b462309cf699b63e</sys_ui_formatter>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_292864_client_ho_client_hotel_booking" sys_domain="global" view="Default view">9fcec6352fdf7010b462309cf699b62d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-20 09:49:16</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-20 09:49:16</sys_created_on>
+            <sys_id>b7cec6352fdf7010b462309cf699b68a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_292864_client_ho_client_hotel_booking" sys_domain="global" view="Default view">9fcec6352fdf7010b462309cf699b62d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-20 09:49:16</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-20 09:49:16</sys_created_on>
+            <sys_id>3bcec6352fdf7010b462309cf699b68a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_292864_client_ho_client_hotel_booking" sys_domain="global" view="Default view">9fcec6352fdf7010b462309cf699b62d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-20 09:49:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hotel_booking_for</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-20 09:49:16</sys_created_on>
+            <sys_id>bbcec6352fdf7010b462309cf699b68a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_292864_client_ho_client_hotel_booking" sys_domain="global" view="Default view">9fcec6352fdf7010b462309cf699b62d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-20 09:49:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hotel_booking_for.email</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-20 09:49:16</sys_created_on>
+            <sys_id>3fcec6352fdf7010b462309cf699b68a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_292864_client_ho_client_hotel_booking" sys_domain="global" view="Default view">9fcec6352fdf7010b462309cf699b62d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-20 09:49:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hotel_booking_for.mobile_phone</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-20 09:49:16</sys_created_on>
+            <sys_id>bfcec6352fdf7010b462309cf699b68a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_292864_client_ho_client_hotel_booking" sys_domain="global" view="Default view">9fcec6352fdf7010b462309cf699b62d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-20 09:49:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>checkin_date_and_time</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-20 09:49:16</sys_created_on>
+            <sys_id>33cec6352fdf7010b462309cf699b68b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_292864_client_ho_client_hotel_booking" sys_domain="global" view="Default view">9fcec6352fdf7010b462309cf699b62d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-20 09:49:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>checkout_date</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-20 09:49:16</sys_created_on>
+            <sys_id>b3cec6352fdf7010b462309cf699b68b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_292864_client_ho_client_hotel_booking" sys_domain="global" view="Default view">9fcec6352fdf7010b462309cf699b62d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-20 09:49:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hotel_booking_for.manager.mobile_phone</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-20 09:49:16</sys_created_on>
+            <sys_id>37cec6352fdf7010b462309cf699b68b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_292864_client_ho_client_hotel_booking" sys_domain="global" view="Default view">9fcec6352fdf7010b462309cf699b62d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-20 09:49:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hotel_booking_for.manager</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-20 09:49:16</sys_created_on>
+            <sys_id>b7cec6352fdf7010b462309cf699b68b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_292864_client_ho_client_hotel_booking" sys_domain="global" view="Default view">9fcec6352fdf7010b462309cf699b62d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-20 09:49:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-20 09:49:16</sys_created_on>
+            <sys_id>3bcec6352fdf7010b462309cf699b68b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_292864_client_ho_client_hotel_booking" sys_domain="global" view="Default view">9fcec6352fdf7010b462309cf699b62d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-20 09:49:16</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contact_type</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-20 09:49:16</sys_created_on>
+            <sys_id>bbcec6352fdf7010b462309cf699b68b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_292864_client_ho_client_hotel_booking" sys_domain="global" view="Default view">9fcec6352fdf7010b462309cf699b62d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-20 09:49:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>booking_state</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-20 09:49:16</sys_created_on>
+            <sys_id>3fcec6352fdf7010b462309cf699b68b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_292864_client_ho_client_hotel_booking" sys_domain="global" view="Default view">9fcec6352fdf7010b462309cf699b62d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-20 09:49:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pending_reason</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-20 09:49:16</sys_created_on>
+            <sys_id>bfcec6352fdf7010b462309cf699b68b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_292864_client_ho_client_hotel_booking" sys_domain="global" view="Default view">9fcec6352fdf7010b462309cf699b62d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-20 09:49:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>employee_department</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-20 09:49:16</sys_created_on>
+            <sys_id>33cec6352fdf7010b462309cf699b68c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_292864_client_ho_client_hotel_booking" sys_domain="global" view="Default view">9fcec6352fdf7010b462309cf699b62d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-20 09:49:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>employee_title</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-20 09:49:16</sys_created_on>
+            <sys_id>b3cec6352fdf7010b462309cf699b68c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_292864_client_ho_client_hotel_booking" sys_domain="global" view="Default view">9fcec6352fdf7010b462309cf699b62d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-20 09:49:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hotel_category</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-20 09:49:16</sys_created_on>
+            <sys_id>37cec6352fdf7010b462309cf699b68c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_292864_client_ho_client_hotel_booking" sys_domain="global" view="Default view">9fcec6352fdf7010b462309cf699b62d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-20 09:49:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-20 09:49:17</sys_created_on>
+            <sys_id>b7cec6352fdf7010b462309cf699b68c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_292864_client_ho_client_hotel_booking" sys_domain="global" view="Default view">9fcec6352fdf7010b462309cf699b62d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-20 09:49:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-20 09:49:17</sys_created_on>
+            <sys_id>3bcec6352fdf7010b462309cf699b68c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_292864_client_ho_client_hotel_booking" sys_domain="global" view="Default view">9fcec6352fdf7010b462309cf699b62d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-20 09:49:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_292864_client_ho_client_hotel_booking</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-20 09:49:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9fcec6352fdf7010b462309cf699b62d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_292864_client_ho_client_hotel_booking</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Client hotel booking application" source="x_292864_client_ho">3eeb41a12f533010b462309cf699b67a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Client hotel booking application">3eeb41a12f533010b462309cf699b67a</sys_scope>
+            <sys_update_name>sys_ui_section_9fcec6352fdf7010b462309cf699b62d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-20 09:49:15</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

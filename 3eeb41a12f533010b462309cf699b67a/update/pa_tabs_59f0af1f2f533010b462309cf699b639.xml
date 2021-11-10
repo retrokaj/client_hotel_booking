@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA My Homepage 4 - New Tab 2">d9f0af1f2f533010b462309cf699b637</canvas_page>
+        <name>My Homepage 4 - New Tab 2</name>
+        <page display_value="PA My Homepage 4 - New Tab 2">5df0af1f2f533010b462309cf699b636</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-25 07:39:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>59f0af1f2f533010b462309cf699b639</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Homepage 4 - New Tab 2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Client hotel booking application" source="x_292864_client_ho">3eeb41a12f533010b462309cf699b67a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Client hotel booking application">3eeb41a12f533010b462309cf699b67a</sys_scope>
+        <sys_update_name>pa_tabs_59f0af1f2f533010b462309cf699b639</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-25 07:39:05</sys_updated_on>
+    </pa_tabs>
+</record_update>

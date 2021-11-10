@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="hotel_category" table="x_292864_client_ho_client_hotel_booking" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>hotel_category</element>
+            <name>x_292864_client_ho_client_hotel_booking</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-19 11:01:00</sys_created_on>
+            <sys_id>a0a511612f933010b462309cf699b69f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>hotel_category</sys_name>
+            <sys_package display_value="Client hotel booking application" source="x_292864_client_ho">3eeb41a12f533010b462309cf699b67a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Client hotel booking application">3eeb41a12f533010b462309cf699b67a</sys_scope>
+            <sys_update_name>sys_choice_x_292864_client_ho_client_hotel_booking_hotel_category</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-19 11:01:00</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>hotel_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7 - Star</label>
+            <language>en</language>
+            <name>x_292864_client_ho_client_hotel_booking</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-19 11:01:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>28a511612f933010b462309cf699b69e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-19 11:01:00</sys_updated_on>
+            <u_type/>
+            <value>7 - Star</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>hotel_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>6 - Star</label>
+            <language>en</language>
+            <name>x_292864_client_ho_client_hotel_booking</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-19 11:01:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eca511612f933010b462309cf699b69f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-19 11:01:00</sys_updated_on>
+            <u_type/>
+            <value>6 - Star</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>hotel_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5 - Star</label>
+            <language>en</language>
+            <name>x_292864_client_ho_client_hotel_booking</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-19 11:01:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a0a511612f933010b462309cf699b6a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-19 11:01:00</sys_updated_on>
+            <u_type/>
+            <value>5 - Star</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>hotel_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4 - Star</label>
+            <language>en</language>
+            <name>x_292864_client_ho_client_hotel_booking</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-19 11:01:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>64a511612f933010b462309cf699b6a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-19 11:01:00</sys_updated_on>
+            <u_type/>
+            <value>4 - Star</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>hotel_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3 - Star</label>
+            <language>en</language>
+            <name>x_292864_client_ho_client_hotel_booking</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-19 11:01:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>28a511612f933010b462309cf699b6a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-19 11:01:00</sys_updated_on>
+            <u_type/>
+            <value>3 - Star</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>hotel_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2 - Star</label>
+            <language>en</language>
+            <name>x_292864_client_ho_client_hotel_booking</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-19 11:01:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>24a51da12f933010b462309cf699b694</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-19 11:01:00</sys_updated_on>
+            <u_type/>
+            <value>2 - Star</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>hotel_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1 - Star</label>
+            <language>en</language>
+            <name>x_292864_client_ho_client_hotel_booking</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-19 11:01:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e4a51da12f933010b462309cf699b695</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-19 11:01:00</sys_updated_on>
+            <u_type/>
+            <value>1 - Star</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

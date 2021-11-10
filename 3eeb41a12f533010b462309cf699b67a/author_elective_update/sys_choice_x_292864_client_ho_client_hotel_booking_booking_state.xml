@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="booking_state" table="x_292864_client_ho_client_hotel_booking" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>booking_state</element>
+            <name>x_292864_client_ho_client_hotel_booking</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-19 11:25:18</sys_created_on>
+            <sys_id>283b99a92f933010b462309cf699b66e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>booking_state</sys_name>
+            <sys_package display_value="Client hotel booking application" source="x_292864_client_ho">3eeb41a12f533010b462309cf699b67a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Client hotel booking application">3eeb41a12f533010b462309cf699b67a</sys_scope>
+            <sys_update_name>sys_choice_x_292864_client_ho_client_hotel_booking_booking_state</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-19 11:25:18</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>booking_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New Booking</label>
+            <language>en</language>
+            <name>x_292864_client_ho_client_hotel_booking</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-19 11:25:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ac3b99a92f933010b462309cf699b66d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-19 11:25:18</sys_updated_on>
+            <u_type/>
+            <value>New Booking</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>booking_state</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>New state</label>
+            <language>en</language>
+            <name>x_292864_client_ho_client_hotel_booking</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-19 11:25:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>643b5de92f933010b462309cf699b668</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-19 11:25:18</sys_updated_on>
+            <u_type/>
+            <value>New state</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>booking_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Booking pending</label>
+            <language>en</language>
+            <name>x_292864_client_ho_client_hotel_booking</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-19 11:25:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2c3b99a92f933010b462309cf699b66f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-19 11:25:18</sys_updated_on>
+            <u_type/>
+            <value>Booking pending</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>booking_state</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>On hold</label>
+            <language>en</language>
+            <name>x_292864_client_ho_client_hotel_booking</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-19 11:25:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>283b5de92f933010b462309cf699b669</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-19 11:25:18</sys_updated_on>
+            <u_type/>
+            <value>On hold</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>booking_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Already booked</label>
+            <language>en</language>
+            <name>x_292864_client_ho_client_hotel_booking</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-19 11:25:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec3b99a92f933010b462309cf699b670</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-19 11:25:18</sys_updated_on>
+            <u_type/>
+            <value>Already booked</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>booking_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Not eligble</label>
+            <language>en</language>
+            <name>x_292864_client_ho_client_hotel_booking</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-19 11:25:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a03b99a92f933010b462309cf699b672</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-19 11:25:18</sys_updated_on>
+            <u_type/>
+            <value>Not eligble</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>booking_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Booking closed</label>
+            <language>en</language>
+            <name>x_292864_client_ho_client_hotel_booking</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-19 11:25:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>643b99a92f933010b462309cf699b673</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-19 11:25:18</sys_updated_on>
+            <u_type/>
+            <value>Booking closed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>booking_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Booking cancelled</label>
+            <language>en</language>
+            <name>x_292864_client_ho_client_hotel_booking</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-19 11:25:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>283b99a92f933010b462309cf699b674</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-19 11:25:18</sys_updated_on>
+            <u_type/>
+            <value>Booking cancelled</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

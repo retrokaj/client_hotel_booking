@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>pending_reason</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-25 11:14:40</sys_created_on>
+        <sys_data_policy display_value="set pending reason mandatory when state is pending">b5f114a72f973010b462309cf699b6a5</sys_data_policy>
+        <sys_id>972298a72f973010b462309cf699b6c2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>pending_reason</sys_name>
+        <sys_package display_value="Client hotel booking application" source="x_292864_client_ho">3eeb41a12f533010b462309cf699b67a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Client hotel booking application">3eeb41a12f533010b462309cf699b67a</sys_scope>
+        <sys_update_name>sys_data_policy_rule_972298a72f973010b462309cf699b6c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-25 11:17:11</sys_updated_on>
+        <table>x_292864_client_ho_client_hotel_booking</table>
+    </sys_data_policy_rule>
+</record_update>

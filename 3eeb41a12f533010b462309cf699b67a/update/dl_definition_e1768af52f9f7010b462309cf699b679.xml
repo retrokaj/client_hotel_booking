@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_definition">
+    <dl_definition action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <matcher_table>x_292864_client_ho_dl_u_hotellookup</matcher_table>
+        <name>Hotel Lookup Rules</name>
+        <run_on_form_change>true</run_on_form_change>
+        <run_on_insert>true</run_on_insert>
+        <run_on_update>true</run_on_update>
+        <source_table>x_292864_client_ho_client_hotel_booking</source_table>
+        <sys_class_name>dl_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-20 09:13:15</sys_created_on>
+        <sys_id>e1768af52f9f7010b462309cf699b679</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hotel Lookup Rules</sys_name>
+        <sys_package display_value="Client hotel booking application" source="x_292864_client_ho">3eeb41a12f533010b462309cf699b67a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Client hotel booking application">3eeb41a12f533010b462309cf699b67a</sys_scope>
+        <sys_update_name>dl_definition_e1768af52f9f7010b462309cf699b679</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-20 09:13:15</sys_updated_on>
+    </dl_definition>
+</record_update>

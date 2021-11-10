@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="booking_reason" table="x_292864_client_ho_client_hotel_booking" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>booking_reason</element>
+            <name>x_292864_client_ho_client_hotel_booking</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-19 11:17:33</sys_created_on>
+            <sys_id>7669dde52f933010b462309cf699b654</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>booking_reason</sys_name>
+            <sys_package display_value="Client hotel booking application" source="x_292864_client_ho">3eeb41a12f533010b462309cf699b67a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Client hotel booking application">3eeb41a12f533010b462309cf699b67a</sys_scope>
+            <sys_update_name>sys_choice_x_292864_client_ho_client_hotel_booking_booking_reason</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-19 11:17:33</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>booking_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Board Meeting</label>
+            <language>en</language>
+            <name>x_292864_client_ho_client_hotel_booking</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-19 11:19:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>34b911692f933010b462309cf699b6b4</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-19 11:19:24</sys_updated_on>
+            <u_type/>
+            <value>board meeting</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>booking_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Client Meeting</label>
+            <language>en</language>
+            <name>x_292864_client_ho_client_hotel_booking</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-19 11:17:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>da4959292f933010b462309cf699b601</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-19 11:17:33</sys_updated_on>
+            <u_type/>
+            <value>client meeting</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>booking_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Client Visiting</label>
+            <language>en</language>
+            <name>x_292864_client_ho_client_hotel_booking</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-19 11:17:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3b691da52f933010b462309cf699b6ec</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-19 11:17:56</sys_updated_on>
+            <u_type/>
+            <value>client visiting</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>booking_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Knowledge Transfer</label>
+            <language>en</language>
+            <name>x_292864_client_ho_client_hotel_booking</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-19 11:18:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>52a95da52f933010b462309cf699b63a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-19 11:18:50</sys_updated_on>
+            <u_type/>
+            <value>knowledge transfer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>booking_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sprint Release</label>
+            <language>en</language>
+            <name>x_292864_client_ho_client_hotel_booking</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-19 11:18:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9f795d292f933010b462309cf699b643</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-19 11:18:18</sys_updated_on>
+            <u_type/>
+            <value>sprint release</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

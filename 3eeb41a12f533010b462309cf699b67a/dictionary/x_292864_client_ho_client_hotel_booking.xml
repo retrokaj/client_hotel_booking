@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" label="Client Hotel Booking" max_length="40" name="x_292864_client_ho_client_hotel_booking" sizeclass="4" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Additional Comemnts" max_length="40" name="additional_comemnts" type="journal_input"/>
+        <element attributes="encode_utf8=false" label="Assigned to" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="Assignment Group" max_length="32" name="assignment_group" reference="sys_user_group" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="2" label="Booking Reason" max_length="40" name="booking_reason" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Board Meeting" value="board meeting"/>
+                <element inactive_on_update="false" label="Client Meeting" value="client meeting"/>
+                <element inactive_on_update="false" label="Client Visiting" value="client visiting"/>
+                <element inactive_on_update="false" label="Knowledge Transfer" value="knowledge transfer"/>
+                <element inactive_on_update="false" label="Sprint Release" value="sprint release"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Booking State" max_length="40" name="booking_state" type="string">
+            <choice>
+                <element inactive_on_update="false" label="New Booking" sequence="0" value="New Booking"/>
+                <element inactive="true" inactive_on_update="true" label="New state" sequence="0" value="New state"/>
+                <element inactive_on_update="false" label="Booking pending" sequence="1" value="Booking pending"/>
+                <element inactive="true" inactive_on_update="true" label="On hold" sequence="1" value="On hold"/>
+                <element inactive_on_update="false" label="Already booked" sequence="2" value="Already booked"/>
+                <element inactive_on_update="false" label="Not eligble" sequence="3" value="Not eligble"/>
+                <element inactive_on_update="false" label="Booking closed" sequence="4" value="Booking closed"/>
+                <element inactive_on_update="false" label="Booking cancelled" sequence="5" value="Booking cancelled"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="CheckIn Date and Time" max_length="40" name="checkin_date_and_time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Checkout Date" max_length="40" name="checkout_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Contact Type" max_length="40" name="contact_type" type="string">
+            <choice/>
+        </element>
+        <element attributes="encode_utf8=false" label="Employee department" max_length="32" name="employee_department" reference="cmn_department" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" choice_field="title" choice_table="sys_user" label="Employee Title" max_length="40" name="employee_title" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Administrative Assistant" sequence="0" value="Administrative Assistant"/>
+                <element inactive="true" inactive_on_update="true" label="Board Director" sequence="0" value="Board Director"/>
+                <element inactive="true" inactive_on_update="true" label="Board member" sequence="1" value="Board member"/>
+                <element inactive_on_update="false" label="Chief Executive Officer" sequence="1" value="Chief Executive Officer"/>
+                <element inactive_on_update="false" label="Chief Financial Officer" sequence="2" value="Chief Financial Officer"/>
+                <element inactive="true" inactive_on_update="true" label="Junior developer" sequence="2" value="Junior developer"/>
+                <element inactive_on_update="false" label="Chief Technology Officer" sequence="3" value="Chief Technology Officer"/>
+                <element inactive="true" inactive_on_update="true" label="Senior developer" sequence="3" value="Senior developer"/>
+                <element inactive_on_update="false" label="Director" sequence="4" value="Director"/>
+                <element inactive="true" inactive_on_update="true" label="Team Lead" sequence="4" value="Team Lead"/>
+                <element inactive_on_update="false" label="IT Technician" sequence="5" value="IT Technician"/>
+                <element inactive="true" inactive_on_update="true" label="Project manager" sequence="5" value="Project manager"/>
+                <element inactive="true" inactive_on_update="true" label="HR Manager" sequence="6" value="HR Manager"/>
+                <element inactive_on_update="false" label="Sales Executive" sequence="7" value="Sales Executive"/>
+                <element inactive_on_update="false" label="Solution Consultant" sequence="9" value="Solution Consultant"/>
+                <element inactive_on_update="false" label="System Administrator" sequence="10" value="System Administrator"/>
+                <element inactive_on_update="false" label="Vice President" sequence="11" value="Vice President"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Hotel Booking for" max_length="32" name="hotel_booking_for" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Hotel Category" max_length="40" name="hotel_category" read_only="true" type="string">
+            <choice>
+                <element inactive_on_update="false" label="7 - Star" sequence="0" value="7 - Star"/>
+                <element inactive_on_update="false" label="6 - Star" sequence="1" value="6 - Star"/>
+                <element inactive_on_update="false" label="5 - Star" sequence="2" value="5 - Star"/>
+                <element inactive_on_update="false" label="4 - Star" sequence="3" value="4 - Star"/>
+                <element inactive_on_update="false" label="3 - Star" sequence="4" value="3 - Star"/>
+                <element inactive_on_update="false" label="2 - Star" sequence="5" value="2 - Star"/>
+                <element inactive_on_update="false" label="1 - Star" sequence="6" value="1 - Star"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="More information" max_length="1000" name="more_information" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Pending reason" max_length="40" name="pending_reason" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Not eligble" sequence="0" value="Not eligble"/>
+                <element inactive_on_update="false" label="Hotel are not available" sequence="1" value="Hotel are not available"/>
+                <element inactive_on_update="false" label="HDocument pending" sequence="2" value="HDocument pending"/>
+            </choice>
+        </element>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Watch list" max_length="1024" name="watch_list" reference="sys_user" type="glide_list"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Worknote list" max_length="1024" name="worknote_list" reference="sys_user" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true" label="Work Notes" max_length="40" name="work_notes" type="journal_input"/>
+        <index name="index">
+            <element name="hotel_booking_for"/>
+        </index>
+        <index name="index2">
+            <element name="assignment_group"/>
+        </index>
+        <index name="index3">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index4">
+            <element name="employee_department"/>
+        </index>
+    </element>
+</database>
